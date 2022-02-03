@@ -13,3 +13,18 @@ C:\Users\valen\source\repos\valentinkatanga\OOAD-ValentinKatanga-2022\SlnLes01He
 C:\Users\valen\source\repos\valentinkatanga\OOAD-ValentinKatanga-2022\SlnLes01Herhaling\WpfOxo\obj\Debug\WpfOxo.csproj.CoreCompileInputs.cache
 C:\Users\valen\source\repos\valentinkatanga\OOAD-ValentinKatanga-2022\SlnLes01Herhaling\WpfOxo\obj\Debug\WpfOxo.exe
 C:\Users\valen\source\repos\valentinkatanga\OOAD-ValentinKatanga-2022\SlnLes01Herhaling\WpfOxo\obj\Debug\WpfOxo.pdb
+C:\Users\valen\Desktop\Femto Nebilim\PROJECTS\C#\C-PROJECTS\OXO\WpfOxo\bin\Debug\WpfOxo.exe.config
+C:\Users\valen\Desktop\Femto Nebilim\PROJECTS\C#\C-PROJECTS\OXO\WpfOxo\bin\Debug\WpfOxo.exe
+C:\Users\valen\Desktop\Femto Nebilim\PROJECTS\C#\C-PROJECTS\OXO\WpfOxo\bin\Debug\WpfOxo.pdb
+C:\Users\valen\Desktop\Femto Nebilim\PROJECTS\C#\C-PROJECTS\OXO\WpfOxo\obj\Debug\WpfOxo.csprojAssemblyReference.cache
+C:\Users\valen\Desktop\Femto Nebilim\PROJECTS\C#\C-PROJECTS\OXO\WpfOxo\obj\Debug\MainWindow.g.cs
+C:\Users\valen\Desktop\Femto Nebilim\PROJECTS\C#\C-PROJECTS\OXO\WpfOxo\obj\Debug\App.g.cs
+C:\Users\valen\Desktop\Femto Nebilim\PROJECTS\C#\C-PROJECTS\OXO\WpfOxo\obj\Debug\WpfOxo_MarkupCompile.cache
+C:\Users\valen\Desktop\Femto Nebilim\PROJECTS\C#\C-PROJECTS\OXO\WpfOxo\obj\Debug\WpfOxo_MarkupCompile.lref
+C:\Users\valen\Desktop\Femto Nebilim\PROJECTS\C#\C-PROJECTS\OXO\WpfOxo\obj\Debug\MainWindow.baml
+C:\Users\valen\Desktop\Femto Nebilim\PROJECTS\C#\C-PROJECTS\OXO\WpfOxo\obj\Debug\WpfOxo.g.resources
+C:\Users\valen\Desktop\Femto Nebilim\PROJECTS\C#\C-PROJECTS\OXO\WpfOxo\obj\Debug\WpfOxo.Properties.Resources.resources
+C:\Users\valen\Desktop\Femto Nebilim\PROJECTS\C#\C-PROJECTS\OXO\WpfOxo\obj\Debug\WpfOxo.csproj.GenerateResource.cache
+C:\Users\valen\Desktop\Femto Nebilim\PROJECTS\C#\C-PROJECTS\OXO\WpfOxo\obj\Debug\WpfOxo.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\Femto Nebilim\PROJECTS\C#\C-PROJECTS\OXO\WpfOxo\obj\Debug\WpfOxo.exe
+C:\Users\valen\Desktop\Femto Nebilim\PROJECTS\C#\C-PROJECTS\OXO\WpfOxo\obj\Debug\WpfOxo.pdb

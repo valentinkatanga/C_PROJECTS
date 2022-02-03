@@ -48,7 +48,7 @@ namespace WpfOxo
             //winstreak X: horizontale
             if (Convert.ToString(btn1.Content) == x && Convert.ToString(btn2.Content) == x && Convert.ToString(btn3.Content) == x)
             {
-                lblWinner.Content = "Winner X is gewonnen";
+                lblWinner.Content = "Winner X has won";
 
                 btn1.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn2.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
@@ -68,7 +68,7 @@ namespace WpfOxo
             }
             if (Convert.ToString(btn4.Content) == x && Convert.ToString(btn5.Content) == x && Convert.ToString(btn6.Content) == x)
             {
-                lblWinner.Content = "Winner X is gewonnen";
+                lblWinner.Content = "Winner X has won";
 
                 btn4.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn5.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
@@ -86,7 +86,7 @@ namespace WpfOxo
             }
             if (Convert.ToString(btn7.Content) == x && Convert.ToString(btn8.Content) == x && Convert.ToString(btn9.Content) == x)
             {
-                lblWinner.Content = "Winner X is gewonnen";
+                lblWinner.Content = "Winner X has won";
                 btn7.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn8.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn9.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
@@ -105,7 +105,7 @@ namespace WpfOxo
             //winstreak X: verticale
             if (Convert.ToString(btn1.Content) == x && Convert.ToString(btn4.Content) == x && Convert.ToString(btn7.Content) == x)
             {
-                lblWinner.Content = "Winner X is gewonnen";
+                lblWinner.Content = "Winner X has won";
                 btn1.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn4.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn7.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
@@ -123,7 +123,7 @@ namespace WpfOxo
             }
             if (Convert.ToString(btn2.Content) == x && Convert.ToString(btn5.Content) == x && Convert.ToString(btn8.Content) == x)
             {
-                lblWinner.Content = "Winner X is gewonnen";
+                lblWinner.Content = "Winner X has won";
                 btn2.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn5.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn8.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
@@ -141,7 +141,7 @@ namespace WpfOxo
             }
             if (Convert.ToString(btn3.Content) == x && Convert.ToString(btn6.Content) == x && Convert.ToString(btn9.Content) == x)
             {
-                lblWinner.Content = "Winner X is gewonnen";
+                lblWinner.Content = "Winner X has won";
                 btn3.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn6.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn9.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
@@ -160,7 +160,7 @@ namespace WpfOxo
             //winstreak X: diagonale
             if (Convert.ToString(btn1.Content) == x && Convert.ToString(btn5.Content) == x && Convert.ToString(btn9.Content) == x)
             {
-                lblWinner.Content = "Winner X is gewonnen";
+                lblWinner.Content = "Winner X has won";
                 btn1.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn5.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn9.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
@@ -178,7 +178,7 @@ namespace WpfOxo
             }
             if (Convert.ToString(btn3.Content) == x && Convert.ToString(btn5.Content) == x && Convert.ToString(btn7.Content) == x)
             {
-                lblWinner.Content = "Winner X is gewonnen";
+                lblWinner.Content = "Winner X has won";
                 btn3.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn5.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn7.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
@@ -200,7 +200,7 @@ namespace WpfOxo
             //winstreak O: horizontale
             if (Convert.ToString(btn1.Content) == o && Convert.ToString(btn2.Content) == o && Convert.ToString(btn3.Content) == o)
             {
-                lblWinner.Content = "Winner O is gewonnen";
+                lblWinner.Content = "Winner O has won";
                 btn1.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn2.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn3.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
@@ -217,7 +217,7 @@ namespace WpfOxo
             }
             if (Convert.ToString(btn4.Content) == o && Convert.ToString(btn5.Content) == o && Convert.ToString(btn6.Content) == o)
             {
-                lblWinner.Content = "Winner O is gewonnen";
+                lblWinner.Content = "Winner O has won";
                 btn4.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn5.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn6.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
@@ -234,7 +234,7 @@ namespace WpfOxo
             }
             if (Convert.ToString(btn7.Content) == o && Convert.ToString(btn8.Content) == o && Convert.ToString(btn9.Content) == o)
             {
-                lblWinner.Content = "Winner O is gewonnen";
+                lblWinner.Content = "Winner O has won";
                 btn7.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn8.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn9.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
@@ -252,7 +252,7 @@ namespace WpfOxo
             //winstreak O: verticale
             if (Convert.ToString(btn1.Content) == o && Convert.ToString(btn4.Content) == o && Convert.ToString(btn7.Content) == o)
             {
-                lblWinner.Content = "Winner O is gewonnen";
+                lblWinner.Content = "Winner O has won";
                 btn1.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn4.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn7.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
@@ -269,7 +269,7 @@ namespace WpfOxo
             }
             if (Convert.ToString(btn2.Content) == o && Convert.ToString(btn5.Content) == o && Convert.ToString(btn8.Content) == o)
             {
-                lblWinner.Content = "Winner O is gewonnen";
+                lblWinner.Content = "Winner O has won";
                 btn2.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn5.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn8.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
@@ -286,7 +286,7 @@ namespace WpfOxo
             }
             if (Convert.ToString(btn3.Content) == o && Convert.ToString(btn6.Content) == o && Convert.ToString(btn9.Content) == o)
             {
-                lblWinner.Content = "Winner O is gewonnen";
+                lblWinner.Content = "Winner O has won";
                 btn3.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn6.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn9.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
@@ -304,7 +304,7 @@ namespace WpfOxo
             //winstreak O: diagonal
             if (Convert.ToString(btn1.Content) == o && Convert.ToString(btn5.Content) == o && Convert.ToString(btn9.Content) == o)
             {
-                lblWinner.Content = "Winner O is gewonnen";
+                lblWinner.Content = "Winner O has won";
                 btn1.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn5.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn9.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
@@ -321,7 +321,7 @@ namespace WpfOxo
             }
             if (Convert.ToString(btn3.Content) == o && Convert.ToString(btn5.Content) == o && Convert.ToString(btn7.Content) == o)
             {
-                lblWinner.Content = "Winner O is gewonnen";
+                lblWinner.Content = "Winner O has won";
                 btn3.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn5.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
                 btn7.Foreground = new SolidColorBrush(Color.FromRgb(0, 150, 0));
