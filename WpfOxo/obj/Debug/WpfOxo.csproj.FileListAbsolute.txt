@@ -1,0 +1,15 @@
+C:\Users\valen\source\repos\valentinkatanga\OOAD-ValentinKatanga-2022\SlnLes01Herhaling\WpfOxo\bin\Debug\WpfOxo.exe.config
+C:\Users\valen\source\repos\valentinkatanga\OOAD-ValentinKatanga-2022\SlnLes01Herhaling\WpfOxo\bin\Debug\WpfOxo.exe
+C:\Users\valen\source\repos\valentinkatanga\OOAD-ValentinKatanga-2022\SlnLes01Herhaling\WpfOxo\bin\Debug\WpfOxo.pdb
+C:\Users\valen\source\repos\valentinkatanga\OOAD-ValentinKatanga-2022\SlnLes01Herhaling\WpfOxo\obj\Debug\WpfOxo.csprojAssemblyReference.cache
+C:\Users\valen\source\repos\valentinkatanga\OOAD-ValentinKatanga-2022\SlnLes01Herhaling\WpfOxo\obj\Debug\MainWindow.g.cs
+C:\Users\valen\source\repos\valentinkatanga\OOAD-ValentinKatanga-2022\SlnLes01Herhaling\WpfOxo\obj\Debug\App.g.cs
+C:\Users\valen\source\repos\valentinkatanga\OOAD-ValentinKatanga-2022\SlnLes01Herhaling\WpfOxo\obj\Debug\WpfOxo_MarkupCompile.cache
+C:\Users\valen\source\repos\valentinkatanga\OOAD-ValentinKatanga-2022\SlnLes01Herhaling\WpfOxo\obj\Debug\WpfOxo_MarkupCompile.lref
+C:\Users\valen\source\repos\valentinkatanga\OOAD-ValentinKatanga-2022\SlnLes01Herhaling\WpfOxo\obj\Debug\MainWindow.baml
+C:\Users\valen\source\repos\valentinkatanga\OOAD-ValentinKatanga-2022\SlnLes01Herhaling\WpfOxo\obj\Debug\WpfOxo.g.resources
+C:\Users\valen\source\repos\valentinkatanga\OOAD-ValentinKatanga-2022\SlnLes01Herhaling\WpfOxo\obj\Debug\WpfOxo.Properties.Resources.resources
+C:\Users\valen\source\repos\valentinkatanga\OOAD-ValentinKatanga-2022\SlnLes01Herhaling\WpfOxo\obj\Debug\WpfOxo.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\valentinkatanga\OOAD-ValentinKatanga-2022\SlnLes01Herhaling\WpfOxo\obj\Debug\WpfOxo.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\valentinkatanga\OOAD-ValentinKatanga-2022\SlnLes01Herhaling\WpfOxo\obj\Debug\WpfOxo.exe
+C:\Users\valen\source\repos\valentinkatanga\OOAD-ValentinKatanga-2022\SlnLes01Herhaling\WpfOxo\obj\Debug\WpfOxo.pdb
